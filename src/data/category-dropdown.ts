@@ -51,13 +51,6 @@ const category_dropdown:category_dropdown[] = [
         bg_clr:'#E8F7E9',
       },
       {
-        id:5,
-        icon:cate_icon_5,
-        title:'Home Repairs',
-        count:'35+',
-        bg_clr:'#F7F5FF',
-      },
-      {
         id:6,
         icon:cate_icon_6,
         title:'General Maintenance',
