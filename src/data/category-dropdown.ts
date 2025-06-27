@@ -13,22 +13,22 @@ const category_dropdown:category_dropdown[] = [
       {
         id:1,
         icon:cate_icon_1,
-        title:'UI/UX Design',
-        count:'12k+',
+        title:'Painting',
+        count:'25+',
         bg_clr:'#EAFBFD'
       },
       {
         id:2,
         icon:cate_icon_2,
-        title:'Development',
-        count:'7k+',
+        title:'Popcorn Removal',
+        count:'15+',
         bg_clr:'#FFFAEC',
       },
       {
         id:3,
         icon:cate_icon_3,
-        title:'Telemarketing',
-        count:'310k+',
+        title:'Drywall',
+        count:'30+',
         bg_clr:'#FFEBFB',
       },
     ]
@@ -39,22 +39,22 @@ const category_dropdown:category_dropdown[] = [
       {
         id:4,
         icon:cate_icon_4,
-        title:'Marketing',
-        count:'420k+',
+        title:'Cabinet Install',
+        count:'20+',
         bg_clr:'#E8F7E9',
       },
       {
         id:5,
         icon:cate_icon_5,
-        title:'Editing',
-        count:'3k+',
+        title:'Home Repairs',
+        count:'35+',
         bg_clr:'#F7F5FF',
       },
       {
         id:6,
         icon:cate_icon_6,
-        title:'Accounting',
-        count:'150k+',
+        title:'General Maintenance',
+        count:'40+',
         bg_clr:'#FFF3EA',
       },
     ]
