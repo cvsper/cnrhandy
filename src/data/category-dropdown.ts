@@ -31,6 +31,13 @@ const category_dropdown:category_dropdown[] = [
         count:'30+',
         bg_clr:'#FFEBFB',
       },
+      {
+        id:7,
+        icon:cate_icon_1,
+        title:'Plumbing',
+        count:'18+',
+        bg_clr:'#E8F1FF',
+      },
     ]
   },
   {
